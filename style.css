@@ -22,7 +22,8 @@ html, body{
     box-sizing: border-box;
     border: 2px solid rebeccapurple;
     background-color: #344153;
-    padding: 0 250px;
+    padding: 1% 16%;
+    /* height: 40%; */
 
 }
 
